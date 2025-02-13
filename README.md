@@ -35,7 +35,6 @@ This project demonstrates how to implement a **login screen** using the **MVVM (
 
 Feel free to fork this project and contribute! If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+## Creation
+- Tsetseg219
+  
